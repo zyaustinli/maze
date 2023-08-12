@@ -1,0 +1,1 @@
+i will make a coordinate class and then convert all of the text-map formats into coordinate, and keep coordinate map inputs as coordinates. then, the coordinate class will have the values such as @, ., W, etc, as well as the rows and rooms and cols. I will add all coordinates into a map 2d array, and iterate thru using the algorithims. 
